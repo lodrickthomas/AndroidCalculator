@@ -151,7 +151,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 number = "";
                 answerDisplay.setText("");
                 break;
-
+//equal button added
             case R.id.button_equal:
                 num2 = Integer.parseInt(number);
                 if (symbol == "+"){
