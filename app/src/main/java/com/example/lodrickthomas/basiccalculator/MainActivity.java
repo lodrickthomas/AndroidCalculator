@@ -143,6 +143,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 num1 = Integer.parseInt(number);
                 number = "";
                 break;
+//                clear button
             case R.id.button_clear:
                 symbol = "";
                 num1 = 0;
